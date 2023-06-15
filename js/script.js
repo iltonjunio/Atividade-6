@@ -1,6 +1,6 @@
 // Exercício 1 
 function calcularTabuada() {
-    numero = document.getElementById('numero Exercicio1').value
+    numero = document.getElementById('numeroExercicio1').value
     resultado = ""
 
     for (i = 1; i <= 10; i++) {
@@ -11,7 +11,6 @@ function calcularTabuada() {
 }
 //=========================================================================
 // Exercício 2 
-
 function mostrarNumerosPares() {
     numero = document.getElementById('numeroExercicio2').value
     resultado = ""
